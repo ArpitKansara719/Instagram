@@ -1,1 +1,1 @@
-<a href="https://vercel.com/arpitkansara719s-projects/instagram"> <img src="insta.png"/> </a>
+<a href="https://instagram-three-mauve.vercel.app/"> <img src="insta.png"/> </a>
